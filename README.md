@@ -1,2 +1,13 @@
 # Picture-Swaping-Game
-Open the java file first and then replace the path of these cut outs so you can see images on Button. :D
+To run the game :
+
+### Step 1:
+Compile :
+```
+javac SwapingGame.java 
+```
+### Step 2:
+Run :
+```
+java SwapingGame 
+```
