@@ -1,4 +1,5 @@
 # Picture-Swaping-Game
+A simple game with an app UI.
 To run the game :
 
 ### Step 1:
